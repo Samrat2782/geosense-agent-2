@@ -1,0 +1,14 @@
+numpy
+pandas
+geopandas
+rasterio
+shapely
+pyproj
+scikit-learn
+matplotlib
+seaborn
+jupyter
+python-dotenv
+psycopg2-binary
+sqlalchemy
+requests
